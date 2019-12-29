@@ -1,9 +1,10 @@
-#Prepare 'static' folder
+Prepare 'static' folder
+===
 
 this is the folder for index.html, css, and images.
 static folder can be placed outside or inside src folder
 
-##folder structure
+## folder structure
 ```
 rust-dom
   - src
@@ -16,9 +17,8 @@ rust-dom
             - fonts
 ```
 
-##index.html
+## index.html
 rust_dom.js can be differnt if your project name is helloworld, then you need to change it to helloworld.js. ** your project name is the package name in the cargo.toml.
-
 ```
 <!doctype html>
 <html lang="en">

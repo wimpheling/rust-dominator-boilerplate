@@ -1,4 +1,6 @@
-#Prepare app.rs
+Prepare app.rs
+===
+
 add a file app.rs inside src folder.
 then copy the following into app.rs
 
@@ -35,7 +37,7 @@ impl App {
 }
 ```
 
-##Test build
+## Test build
 
 ```
 cargo web build

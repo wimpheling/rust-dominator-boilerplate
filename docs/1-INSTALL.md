@@ -1,19 +1,20 @@
 
-#Initial Setup
+Initial Setup
+===
 
-##Prepare project folder
+## Prepare project folder
 ```
 mkdir rust-dom
 cd rust-dom
 ```
 
-##Initialize rust project
+## Initialize rust project
 run the following command to initialize the rust project as lib
 ```
 cargo init --lib
 ```
 
-##Cargo.toml
+## Cargo.toml
 copy the following into Cargo.toml
 
 ```

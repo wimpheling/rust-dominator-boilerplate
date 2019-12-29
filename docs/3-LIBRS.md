@@ -1,4 +1,6 @@
-#Prepare lib.rs
+Prepare lib.rs
+===
+
 empty lib.rs and copy & paste the following into lib.rs
 
 ```
