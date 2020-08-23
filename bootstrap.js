@@ -1,3 +1,3 @@
 import("./pkg").then(module => {
-  module.run_app();
+  // You can use the exported objects here.
 });
